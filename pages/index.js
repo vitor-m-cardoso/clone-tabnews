@@ -1,7 +1,7 @@
 function Home() {
   return (
     <main>
-      <h1>Olá Next!</h1>
+      <h1>Juliana, eu te amo!! Estou indo aí deitar com você. rs</h1>
     </main>
   )
 }
